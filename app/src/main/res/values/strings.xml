@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AR Labs</string>
+    <string name="header_title">Text-to-Speech</string>
+    <string name="script_placeholder">Write or paste your script here...</string>
+    <string name="notif_channel_name">AR Labs Audio Playback</string>
+    <string name="notif_channel_desc">Non-Stop aur background Text-to-Speech controls</string>
+</resources>

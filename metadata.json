@@ -1,0 +1,6 @@
+{
+  "name": "AR Labs",
+  "description": "Premium Hinglish Text-to-Speech Android app powered by Gemini TTS with 7 expressive voices, Non-Stop background playback, and WAV/M4A export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
